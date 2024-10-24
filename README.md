@@ -1,4 +1,4 @@
-Gabriel V G Hervatin - 22016387
+Gabriel Victor Gracini Hervatin - 22016387
 
 
 # Simulação de Sistema de Detecção de Incêndios
