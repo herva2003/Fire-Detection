@@ -1,4 +1,4 @@
-NOME:  Gabriel V G Hervatin  RA:  22016387 /n
+Gabriel V G Hervatin - 22016387
 
 
 # Simulação de Sistema de Detecção de Incêndios
