@@ -1,7 +1,5 @@
 NOME:                        RA:
 Gabriel V G Hervatin         22016387 ||
-Gustavo F Bezerra            20127734 ||
-Theodoro P Mimura            22018164 ||
 
 
 # Simulação de Sistema de Detecção de Incêndios
